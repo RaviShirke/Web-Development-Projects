@@ -1,7 +1,21 @@
 body{
-    background-color:aquamarine;
+    background-color:black;
+    color:white;
 }
 
 h1{
     font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    border: 5px solid white;
+}
+
+#second{
+    text-align: center;
 }
